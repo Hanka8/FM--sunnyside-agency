@@ -59,7 +59,7 @@ a {
 }
 
 .header__nav {
-  margin: 0 48px 105px 40px;
+  margin: 0 48px 115px 40px;
   padding-top: 34px;
   display: flex;
   align-items: center;
@@ -127,7 +127,7 @@ a {
 
 .header__arrow {
   display: block;
-  margin: 96.54px auto 0 auto;
+  margin: 140px auto 0 auto;
 }
 
 /* _____________________________________________________main */
@@ -146,6 +146,10 @@ a {
   padding: calc(158rem/16) calc(110rem/16) calc(157rem/16) calc(165rem/16);
   font-family: var(--fraunces);
   background: #fffcf8;
+}
+
+.text--second {
+  padding: calc(158rem/16) calc(165rem/16) calc(157rem/16) calc(110rem/16);
 }
 
 .container__text__heading {

@@ -54,7 +54,6 @@ a {
 .header {
   height: 800px;
   background-image: url(images/desktop/image-header.jpg);
-  background-attachment: fixed;
   background-size: cover;
   color: white;
 }
